@@ -1,4 +1,5 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/crew/.venv/bin/python",
-  "python.terminal.activateEnvironment": true
+  "python.defaultInterpreterPath": "/Users/sangsoo.kim/Git/AI-DEV/crew/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "editor.fontSize": 15
 }
